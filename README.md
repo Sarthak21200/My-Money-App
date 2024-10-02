@@ -1,7 +1,7 @@
 - Clone the repo
 
 ```jsx
-git clone https://github.com/100xdevs-cohort-2/week-17-final-code
+https://github.com/Sarthak21200/My-Money-App
 ```
 
 - npm install
